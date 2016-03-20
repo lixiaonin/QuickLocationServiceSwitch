@@ -12,3 +12,6 @@ Put this little shortcut app next to your Google Maps or native Maps app just so
 
 * Hope apple can realize that turning location service on and off can be as useful as the wifi switch and put it in the bottom control center in the next iOS update.
 * 希望苹果爸爸倾听用户的呼声，把这个小功能放在底边的控制栏里面。
+
+* It seems apple never documented "prefs:" as an API. So it's also no surprise that apple may quietly remove this redirect function some time later.
+* 貌似苹果从来没有鼓励大家用这种方式跳转，所以他们当然也可以随时禁用这个功能。
